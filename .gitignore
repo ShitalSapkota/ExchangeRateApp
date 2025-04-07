@@ -8,6 +8,7 @@
 # Vite specific files
 /.vite/
 /.vite/
+vite.config.ts
 
 # Environment variables
 .env
