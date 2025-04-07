@@ -1,0 +1,1 @@
+# Simple exchange rate app in TypeScript
